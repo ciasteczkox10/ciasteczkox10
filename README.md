@@ -1,6 +1,3 @@
--I’m @ciasteczkox10
+## Contact
 
-<!---
-ciasteczkox10/ciasteczkox10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Discord](https://img.shields.io/badge/Discord-Add%20Me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1163910344754860103)
