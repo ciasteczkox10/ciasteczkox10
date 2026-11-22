@@ -7,7 +7,7 @@ My main focus is software development, particularly web-based projects. I enjoy 
 ## Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Tools & Frameworks:** Electron
+- **Tools & Frameworks:** Electron, Three.js
 
 ## Featured Project
 
